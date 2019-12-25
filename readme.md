@@ -26,6 +26,8 @@ etc.
 
 ## Sources
 
+* [devops](https://www.devops-cloud.fr/raspberry-cluster-s01e03-configurer-la-piteam-avec-ansible/)
+
 ## Change log
 
 ### Day 1 : 2019/12/24
