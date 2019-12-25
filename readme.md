@@ -37,3 +37,18 @@ manque plus ou moins tout le reste pour le projet final
 
 Je peux déjà faire un cluster avec 2 RPI mdr
 booter et établir le ssh password less
+
+cluster avec 6 raspberry
+
+* cluster1
+  * sd installée
+  * ssh en cours
+  * ip 192.168.1.101 à faire
+* cluster2
+* cluster3
+* cluster4
+* cluster5
+* cluster6
+  * sd installée
+  * ssh ok
+  * ip 192.168.1.106
